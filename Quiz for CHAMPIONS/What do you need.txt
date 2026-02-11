@@ -1,0 +1,2 @@
+In this code you need to have QT designer, Python,
+In the python code you need to import : PyQt5 by using "pip install PyQt5" in cmd.
